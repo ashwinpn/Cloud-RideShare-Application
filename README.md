@@ -25,9 +25,6 @@ Carpooling Service where people can share rides with other people travelling on 
 **Future Work:**<br>
 1. Need to implement measures to improve trust and privacy between users sharing rides. 
 2. Some ideas possible to implement: Driver’s license  and vehicle registration verification
-3. Payment option using third party payment system
+3. Payment option using third party payment system [Such as Square / Paypal]
 
-## More
-[Project Report](RideShare_App_Report.pdf)<br>
-[RideShare App Download Link](https://s3.amazonaws.com/gonativeio/static/5c1a2c266825df7936220f1f/app-release.apk)<br>
-[Demo](https://youtu.be/NN6HuxzuozU)<br>
+
